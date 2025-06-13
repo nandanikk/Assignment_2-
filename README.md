@@ -1,4 +1,5 @@
 📘 Assignment App
+
 An Android application created for the Mobile Application Development course project. It showcases basic app architecture, network integration, and a responsive UI.
 
 📱 Core Features
