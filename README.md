@@ -3,17 +3,25 @@
 An Android application created for the Mobile Application Development course project. It showcases basic app architecture, network integration, and a responsive UI.
 
 📱 Core Features
+
 Tabbed Layout with Fragments
+
 Includes 4 main sections:
+
 Course
+
 Teacher
+
 Student
+
 Enrollment
 
 Live Data Fetching
+
 Displays data dynamically from a remote backend via APIs.
 
 User Interface
+
 Neat layout with soft custom colors and a splash screen on launch.
 
 ⚙️ Tech Stack
